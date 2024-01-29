@@ -6,3 +6,6 @@ public class Cal {
         System.out.println(a-b);
     }
 }
+class A{
+
+}
